@@ -110,7 +110,9 @@ while True:
     cv2.waitKey(1)
 ```
 
+## UPDATES
 
+Added optimized Simple-Hand-Tracker
 
 ## Viewers count
 
